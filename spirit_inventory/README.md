@@ -218,7 +218,8 @@ Filterable by type, batch, capacity, and bottle number.*
 
 ### Expenses & Analysis
 
-![Expenses](screenshots/expenses_part1.png) (screenshots/expenses_part2.png)
+![Expenses](screenshots/expenses_part1.png) 
+![Expenses](screenshots/expenses_part2.png)
 *Expense tracker showing total cost, filterable expense list,
 and a breakdown chart by type and date.*
 
@@ -231,7 +232,8 @@ and trend graphs.*
 ![Audit log](screenshots/audit.png)
 *Audit log with filtering and a full list of recorded system actions.*
 
-![TTB report](screenshots/ttb_report_part1.png) (screenshots/ttb_report_part2.png)
+![TTB report](screenshots/ttb_report_part1.png) 
+![TTB report](screenshots/ttb_report_part2.png)
 *TTB regulatory report with filtering by date range and alcohol volume.*
 
 ![TTB export — by volume](screenshots/ttb_export_report.xlsx)
